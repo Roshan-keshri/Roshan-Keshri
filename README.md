@@ -12,13 +12,7 @@
 
 ---
 
-<div align="center">
 
-### 🐍 Watch My Contributions Get Devoured
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ## 🧑‍💻 `$ whoami.yaml`
 
@@ -30,6 +24,13 @@ focus       : ["MERN Stack", "Java Spring Boot", "REST APIs", "Cloud Deployment"
 status      : "🔥 Actively seeking SDE / Full-Stack Developer roles"
 hobbies     : ["Coding", "Problem Solving", "Building cool stuff"]
 ```
+<div align="center">
+
+### 🐍 Watch My Contributions Get Devoured
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 <div align="center">
 
 # 📊 GitHub Stats:
