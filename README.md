@@ -21,7 +21,7 @@ name        : "Roshan Keshri"
 role        : "Full-Stack Developer  |  Pre Final Year EC Undergrad"
 education   : "B.Tech ECE @ IIIT Ranchi  |  CGPA: 7.75  |  Graduating June 2027"
 focus       : ["MERN Stack", "Java Spring Boot", "REST APIs", "Cloud Deployment"]
-status      : "🔥 Actively seeking SDE / Full-Stack Developer roles"
+status      : "🔥 Actively seeking SDE Intern / Full-Stack Developer roles"
 hobbies     : ["Coding", "Problem Solving", "Building cool stuff"]
 ```
 <div align="center">
