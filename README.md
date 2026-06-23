@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=roshan-keshri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:9D4EDD,100:DA70D6&height=280&section=header&text=Roshan%20Keshri&fontSize=75&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Java%20Spring%20Boot%20%7C%20MERN%20Stack%20&descAlignY=62&descSize=20" width="100%" />
