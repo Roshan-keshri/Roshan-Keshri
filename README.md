@@ -17,7 +17,6 @@ name        : "Roshan Kumar Keshri"
 role        : "Backend & Full-Stack Developer  |  Pre-Final Year ECE Undergrad"
 education   : "B.Tech ECE @ IIIT Ranchi  |  CGPA: 7.56  |  Graduating May 2027"
 focus       : ["Java Spring Boot", "MERN Stack", "Event-Driven Architecture", "DevOps & CI/CD"]
-currently   : "Building a multi-tenant Enterprise Log Monitoring System with Kafka & WebSockets"
 status      : "🔥 Actively seeking SDE Intern / Backend Developer roles"
 strengths   : ["Scalable REST APIs", "Microservices", "CI/CD Pipelines", "Multi-tenant Security"]
 hobbies     : ["Coding", "Problem Solving", "Building production-ready systems"]
